@@ -24,6 +24,7 @@ Operamos bajo los marcos internacionales de referencia:
 * 📢 [**Security Advisories**](https://github.com/Sesecpro/security-advisories): Inteligencia de amenazas y alertas críticas en tiempo real.
 * 🏛️ [**Business Risk Framework**](https://github.com/Sesecpro/Business-Risk-Framework): Gestión de riesgos y cumplimiento para la Alta Dirección.
 * 🛠️ [**Legal Identity Audit Toolkit**](https://github.com/Sesecpro/legal-identity-audit-toolkit): Motor de auditoría de identidad digital v2.0.
+* 📋 [**Compliance & Checklists**](https://github.com/Sesecpro/compliance-checklists): Guías de autodiagnóstico para marcos regulatorios.
 
 ---
 
