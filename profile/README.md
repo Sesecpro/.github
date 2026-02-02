@@ -20,9 +20,10 @@ Operamos bajo los marcos internacionales de referencia:
 ---
 
 ### 📂 Ecosistema de Activos Estratégicos
-Acceda a nuestras metodologías y herramientas de diagnóstico:
-* [**Business Risk Framework**](https://github.com/Sesecpro/Business-Risk-Framework): Gestión de riesgos para la Alta Dirección.
-* [**Legal Identity Audit Toolkit**](https://github.com/Sesecpro/legal-identity-audit-toolkit.git): Motor de auditoría de identidad digital v2.0.
+
+* 📢 [**Security Advisories**](https://github.com/Sesecpro/security-advisories): Inteligencia de amenazas y alertas críticas en tiempo real.
+* 🏛️ [**Business Risk Framework**](https://github.com/Sesecpro/Business-Risk-Framework): Gestión de riesgos y cumplimiento para la Alta Dirección.
+* 🛠️ [**Legal Identity Audit Toolkit**](https://github.com/Sesecpro/legal-identity-audit-toolkit): Motor de auditoría de identidad digital v2.0.
 
 ---
 
@@ -31,4 +32,3 @@ Acceda a nuestras metodologías y herramientas de diagnóstico:
 > *La ciberseguridad no es un coste de IT, es la base de la libertad operativa y financiera de su negocio.*
 
 © 2026 SESECPRO. Todos los derechos reservados.
-
