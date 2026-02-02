@@ -22,7 +22,7 @@ Operamos bajo los marcos internacionales de referencia:
 ### 📂 Ecosistema de Activos Estratégicos
 Acceda a nuestras metodologías y herramientas de diagnóstico:
 * [**Business Risk Framework**](./Business-Risk-Framework): Gestión de riesgos para la Alta Dirección.
-* [**Legal Identity Audit Toolkit**](./legal-identity-audit-toolkit): Motor de auditoría de identidad digital v2.0.
+* [**Legal Identity Audit Toolkit**]([https://github.com/Sesecpro/legal-identity-audit-toolkit.git): Motor de auditoría de identidad digital v2.0.
 
 ---
 
