@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="profile/banner_github_v3.png" alt="Sesecpro Strategic Resilience" width="100%">
+</p>
 # Sesecpro | Enterprise Cybersecurity Services 🛡️
 
 **Liderazgo ejecutivo y resiliencia estratégica para organizaciones globales.**
