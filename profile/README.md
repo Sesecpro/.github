@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner_github_v3.png" alt="Sesecpro Strategic Resilience" width="100%">
+  <img src="https://raw.githubusercontent.com/Sesecpro/.github/main/profile/banner_github_v3.png" alt="Sesecpro Strategic Resilience" width="100%">
 </p>
 
 # Sesecpro | Enterprise Cybersecurity Services 🛡️
@@ -26,11 +26,11 @@ Operamos bajo los marcos internacionales de referencia más rigurosos:
 ### 📂 Ecosistema de Activos Estratégicos
 Acceso directo a nuestras herramientas, guías de auditoría y marcos de trabajo públicos:
 
-* 📢 [**Security Advisories**](../../security-advisories) - Inteligencia de amenazas y alertas críticas Enterprise.
-* 🏛️ [**Business Risk Framework**](../../Business-Risk-Framework) - Gestión de riesgos y gobierno corporativo.
-* 📋 [**Compliance Checklists**](../../compliance-checklists) - Auditorías rápidas para NIS2, DORA e Higiene Digital.
-* 🏗️ [**Zero Trust Blueprints**](../../zero-trust-blueprints) - Estándares de arquitectura y hardening cloud.
-* 🛠️ [**Legal Identity Audit Toolkit**](../../legal-identity-audit-toolkit) - Verificación técnica de identidad digital.
+* 📢 [**Security Advisories**](https://github.com/Sesecpro/security-advisories) - Inteligencia de amenazas y alertas críticas Enterprise.
+* 🏛️ [**Business Risk Framework**](https://github.com/Sesecpro/Business-Risk-Framework) - Gestión de riesgos y gobierno corporativo.
+* 📋 [**Compliance Checklists**](https://github.com/Sesecpro/compliance-checklists) - Auditorías rápidas para NIS2, DORA e Higiene Digital.
+* 🏗️ [**Zero Trust Blueprints**](https://github.com/Sesecpro/zero-trust-blueprints) - Estándares de arquitectura y hardening cloud.
+* 🛠️ [**Legal Identity Audit Toolkit**](https://github.com/Sesecpro/legal-identity-audit-toolkit) - Verificación técnica de identidad digital.
 
 ---
 
