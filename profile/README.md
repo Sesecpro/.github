@@ -26,11 +26,11 @@ Operamos bajo los marcos internacionales de referencia más rigurosos:
 ### 📂 Ecosistema de Activos Estratégicos
 Acceso directo a nuestras herramientas, guías de auditoría y marcos de trabajo públicos:
 
-* 📢 [**Security Advisories**](../security-advisories) - Inteligencia de amenazas y alertas críticas Enterprise.
-* 🏛️ [**Business Risk Framework**](../Business-Risk-Framework) - Gestión de riesgos y gobierno corporativo.
-* 📋 [**Compliance Checklists**](../compliance-checklists) - Auditorías rápidas para NIS2, DORA e Higiene Digital.
-* 🏗️ [**Zero Trust Blueprints**](../zero-trust-blueprints) - Estándares de arquitectura y hardening cloud.
-* 🛠️ [**Legal Identity Audit Toolkit**](../legal-identity-audit-toolkit) - Verificación técnica de identidad digital.
+* 📢 [**Security Advisories**](../../security-advisories) - Inteligencia de amenazas y alertas críticas Enterprise.
+* 🏛️ [**Business Risk Framework**](../../Business-Risk-Framework) - Gestión de riesgos y gobierno corporativo.
+* 📋 [**Compliance Checklists**](../../compliance-checklists) - Auditorías rápidas para NIS2, DORA e Higiene Digital.
+* 🏗️ [**Zero Trust Blueprints**](../../zero-trust-blueprints) - Estándares de arquitectura y hardening cloud.
+* 🛠️ [**Legal Identity Audit Toolkit**](../../legal-identity-audit-toolkit) - Verificación técnica de identidad digital.
 
 ---
 
