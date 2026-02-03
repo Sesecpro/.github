@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/banner_github_v3.png" alt="Sesecpro Strategic Resilience" width="100%">
+  <img src="banner_github_v3.png" alt="Sesecpro Strategic Resilience" width="100%">
 </p>
 
 # Sesecpro | Enterprise Cybersecurity Services 🛡️
